@@ -1,2 +1,2 @@
 # product
-Product development pipeline
+Product planning pipeline
